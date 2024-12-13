@@ -2,7 +2,7 @@
 <br>
 <br>
 <br>
-<p>Projeto de Tela inicial para uma plataforma, pensado em deixa o ambiente mais bonito e podendo ficar dinâmico usando o JavaScript. Usei o HTML para fazer o corpo do projeito e o CSS para a estilização.</p>
+<p>Projeto de Tela inicial para uma plataforma, pensado em deixa o ambiente mais bonito e podendo ficar dinâmico usando o JavaScript. Usei o HTML para fazer o corpo do projeto e o CSS para a estilização.</p>
 <br>
 <br>
 <img src="https://github.com/MicaelMarcos13/Login/blob/master/img.png?raw=true">
